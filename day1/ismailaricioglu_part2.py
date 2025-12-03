@@ -81,12 +81,8 @@ zero_count = 0
 
 # Örnek kod listesi: "R" ileri, "L" geri
 data = """
-L3
-R19
-R14
-L38
-R4
-L34
+L1
+R2
 """
 codes = data.split()
 
