@@ -31,14 +31,16 @@ Part ayırmak isterseniz:
 
 - Lütfen günün çözümlerini gün bitmeden önce göndermeyin. İlgili gün tamamlandıktan sonra çözümlerinizi istediğiniz zaman yollayabilirsiniz.
 
+- **Lütfen input dosyalarınızı paylaşmayın.** Advent of Code'un kullanım şartlarında paylaşım yasaktır.
+
 - Tartışmalar için [Discussions](https://github.com/orgs/Bilgisayar-Kavramlari-Toplulugu/discussions/categories/advent-of-code-2025) kullanabilirsiniz. Her güne ait bir tartışma başlığı açılacaktır. Spoiler'dan kaçınmak için günün çözümünü bitirmeden okumamanızı öneririz. :)
 
-- Her günün çözümleri tek bir klasörde, katkı yapan kişinin adıyla adlandırılmış dosyalar halinde bulunur.
-
-- Herkes istediği dili kullanabilir.
-
-- **Lütfen input dosyalarınızı paylaşmayın.** Advent of Code'un kullanım şartlarında paylaşım yasaktır.
+- Her günün çözümleri tek bir klasörde, katkı yapan kişinin adıyla adlandırılmış dosyalar halinde bulunur. Bir soruya ait çözümünüz birden fazla dosyadan oluşuyorsa adınıza bir klasör oluşturun. (day1/ayse/) 
 
 - Part 1 ve Part 2 için tek dosya veya iki ayrı dosya kullanabilirsiniz.
 
 - Aynı gün için birden fazla yaklaşımınız varsa `kullaniciAdi_v2.ext` gibi versiyonlayabilirsiniz.
+
+- Herkes istediği dili kullanabilir.
+
+
